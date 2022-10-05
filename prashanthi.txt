@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<style>
+	.outer-box{
+		border-top: 100%;
+		border-right: 50%;
+		border-left:50% ;
+		border-bottom: 100%;
+		border-style: ridge;
+		border-color: black;
+		padding: 3rem;
+		margin: 8rem auto;
+		max-height: 200000 rem;
+		max-width: 50rem;
+		background-color:whitesmoke;
+	}
+	body{
+		font-size: 30px;
+	}
+	img{
+		width: 200px;
+		height: 300px;
+		border-image-width: 5rem;
+	}
+	h2{
+		background-color:seagreen ;
+	}
+	h4{
+		background: peachpuff;
+	}
+	table,th,td{
+		border: 1px solid black;
+		padding: 0px;
+		border-spacing: 0px;
+		height: 50px;
+		width: 150px;
+	}
+</style>
+<html>
+<head>
+	<title>MY RESUME</title>
+</head>
+<body class="outer-box">
+		<h2> MY RESUME</h2>
+		<h4>PERSONAL DETAILS</h4>
+		<p><b>Name<h/>:</b>PRASHATHI<br><b>Gender<h/>:</b>Female<br><b>Date of Birth<h/>:</b>11-06-2003<br><b>Mobile Number<h/>:</b>7896541230<br><b>E-mail Id:</b>prashanthi20@gmail.com<br><b>Address:</b>Prashanthi<br>D.NO:26-40-134,<br>sivaramanagar,<br>chuttugunta,<br>Guntur.</p>
+		<p>
+			<h4>CAREER OBJECTIVE</h4>
+			<i>I want to work  with an organisation that can give me ample oppurtunities to grow so that i will be able to help in the growth of that organisation and will be able to enhance my skills and my capabilities.</i>
+			<h4>ACADEMIC QUALIFICATION</h4>
+			<table style="width: 100%;">
+				<tr>
+				<th>EXAM/DEGREE</th>
+				<th>BOARD</th>
+				<th>INSTITUTE</th>
+				<th>YEAR</th>
+				<th>PERCENTAGE</th>
+			</tr>
+			<tr>
+				<td>B.tech</td>
+				<td>jntuk</td>
+				<td>VNITSW</td>
+				<td>2025</td>
+				<td>pursuing</td>
+			</tr>
+			<tr>
+				<td>Intermediate</td>
+				<td>State(AP)</td>
+				<td>SRI CHAITANYA</td>
+				<td>2021</td>
+				<td>85%</td>
+			</tr>
+			<tr>
+				<td>10th</td>
+				<td>ssc</td>
+				<td>SITARAMA HIGH SCHOOL</td>
+				<td>2019</td>
+				<td>90%</td>
+			</tr>
+			</table>
+			<h4>TECHNICAL SKILLS</h4>
+			<ul>
+				<li>Languages:c,python,java</li>
+				<li>Web technologies:HTML,CSS</li>
+			</ul>
+			<h4>AREAS OF INTEREST</h4>
+			<ul>
+				<li>Application Development</li>
+				<li>Testing</li>
+			</ul>
+			<h4>STRENGTHS</h4>
+			<ul>
+				<li>Self discipline</li>
+				<li>Quick learner</li>
+				<li>Self motivated and Hardworking</li>
+				<li>good verbal and written communiction skills</li>
+                                <li>very patient</li>
+                                <li>Good leadership qualities</li>
+
+		    </ul>
+			<h4>HOBBIES</h4>
+			<ul>
+				<li>listening Music,Drawing,dancing,browsing internet and capturing moments</li>
+			</ul>
+			<h4>COLLEGE PROJECT WORK DETAILS</h4>
+			<ul>
+				
+                                <li>Doing a community service project</li>
+			</ul>
+			
+			<h4>LANGUAGES KNOWN</h4>
+			<ul>
+				<li>Telugu</li>
+				<li>English</li>
+                                
+			</ul>
+			<h4>DECLARATION</h4>
+			                  I here by declare that all the above mentioned information is true to the best of my knowledge
+			                  and I bear the responsibility for the correctness of the above mentioned particulars
+			                                                                            <h5><i>prashanthi</i></h5>
+</body>
+</html>
